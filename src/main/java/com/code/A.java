@@ -1,6 +1,7 @@
 package com.code;
 
-public class A {
+public class A
+{
     public void foo() {
         bar();
     }
